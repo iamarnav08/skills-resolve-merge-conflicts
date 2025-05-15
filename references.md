@@ -1,3 +1,3 @@
 # Conflict text
 
-* octocat 1 😈
+* conflict
